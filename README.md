@@ -6,7 +6,6 @@ This project focuses on natural language processing (NLP) analysis. It includes 
 ## Features
 The main features of this project include:
 
-{{ edit_1 }}
 - Text preprocessing (e.g., tokenization, stopword removal, stemming/lemmatization)
 - Sentiment analysis
 - Named entity recognition
